@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88d3692e-6432-435d-b723-1ffebc02f0a2" name="Changes" comment="feat : docker-react-app travis CI test">
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1686646236553</updated>
       <workItem from="1686646237834" duration="3454000" />
-      <workItem from="1686709627777" duration="9493000" />
+      <workItem from="1686709627777" duration="12672000" />
     </task>
     <task id="LOCAL-00001" summary="feat : docker-react-app dockerfile.dev">
       <created>1686709847625</created>
