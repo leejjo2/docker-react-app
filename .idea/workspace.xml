@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88d3692e-6432-435d-b723-1ffebc02f0a2" name="Changes" comment="feat : docker-react-app dockerfile.dev">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+    <list default="true" id="88d3692e-6432-435d-b723-1ffebc02f0a2" name="Changes" comment="feat : docker-react-app docker &amp; nginx">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1686646236553</updated>
       <workItem from="1686646237834" duration="3454000" />
-      <workItem from="1686709627777" duration="5642000" />
+      <workItem from="1686709627777" duration="8573000" />
     </task>
     <task id="LOCAL-00001" summary="feat : docker-react-app dockerfile.dev">
       <created>1686709847625</created>
@@ -80,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686710344531</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat : docker-react-app docker &amp; nginx">
+      <created>1686719837284</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1686719837284</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +102,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat : docker-react-app dockerfile.dev" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat : docker-react-app dockerfile.dev" />
+    <MESSAGE value="feat : docker-react-app docker &amp; nginx" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat : docker-react-app docker &amp; nginx" />
   </component>
 </project>
