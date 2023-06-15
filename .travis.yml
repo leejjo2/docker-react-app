@@ -10,7 +10,7 @@ before_install:
   - docker build -t leejjo2/docker-react-app -f Dockerfile.dev .
 
 script:
-  - docker run -e CI-true leejjo2/docker-react-app npm run test -- --coverage
+  - docker run -e CI=true leejjo2/docker-react-app npm run test -- --coverage
 
 deploy:
   provider: elasticbeanstalk
