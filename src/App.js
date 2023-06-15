@@ -17,7 +17,7 @@ function App() {
         >
           learn react
         </a>
-        <div>test</div>
+        <div>deploy_test</div>
       </header>
     </div>
   );
